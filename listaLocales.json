@@ -1,6 +1,6 @@
 [
 {
-    "id":"l01",
+    "id":1,
     "nombre":"Urban's",
     "descripcion":"Este establecimiento es un bar de tapas y raciones con muy buenos desayunos. Está en un barrio tranquilo y familiar y tiene un parque al lado. La terraza es muy grande y da mucho sol.",
     "coordenadas":[
@@ -19,7 +19,7 @@
 ]
 },
 {
-    "id":"l02",
+    "id":2,
     "nombre":"Meraki",
     "descripcion":"Meraki es un bar de cañas con muy buenas tapas y buenas raciones. Está situado en un barrio muy tranquilo. Disponen de una carta de raciones y platos individuales muy variada.",
     "coordenadas":[
@@ -38,7 +38,7 @@
     ]
 },
 {
-    "id":"l03",
+    "id":3,
     "nombre":"Dino Burger",
     "descripcion":"Dino Burger es una restaurante especializado en hamburguesas pero con un amplio menú. Está situado en el centro de Cáceres. Destaca principalmente por la relación de calidad-precio.",
     "coordenadas":[
@@ -56,7 +56,7 @@
     ]
 },
 {
-    "id":"l04",
+    "id":4,
     "nombre":"El Mesón de Diego",
     "descripcion":"El Mesón de Diego es un bar en el que se sirven buenas raciones. Está situado en un barrio residencial y tranquilo. Destaca por el buen ambiente que hay en su terraza.",
     "coordenadas":[
@@ -75,7 +75,7 @@
     ]
 },
 {
-    "id":"l05",
+    "id":5,
     "nombre":"Restaurante Javier Martín",
     "descripcion":"Javier Martín es un restaurante de alto nivel en el que se busca siempre la mayor calidad. Se encuentra en un barrio tranquilo.",
     "coordenadas":[
@@ -92,7 +92,7 @@
     ]
 },
 {
-    "id":"l06",
+    "id":6,
     "nombre":"Pastelería Imperial",
     "descripcion":"Pastelería Imperial, una de las pastelerías más famosas de Cáceres debido a su alta calidad y experiencia.",
     "coordenadas":[
@@ -109,7 +109,7 @@
     ]
 },
 {
-    "id":"l07",
+    "id":7,
     "nombre":"Restaurante Albalat",
     "descripcion":"Restaurante y tapería en Cáceres. Gastronomía de toda la vida, cocina extremeña.",
     "coordenadas":[
@@ -127,7 +127,7 @@
     ]
 },
 {
-    "id":"l08",
+    "id":8,
     "nombre":"El Corral de las Cigüeñas",
     "descripcion":"Localizado en pleno corazón de la Ciudad Monumental de Cáceres. Sala de Conciertos/Bar.",
     "coordenadas":[
@@ -145,7 +145,7 @@
     ]
 },
 {
-    "id":"l09",
+    "id":9,
     "nombre":"Sal y Pimienta",
     "descripcion":"Tu restaurante, bar y tapería de confianza. Cocina tradicional e innovadora en un mismo sitio",
     "coordenadas":[
