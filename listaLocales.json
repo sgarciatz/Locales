@@ -49,7 +49,7 @@
     "foto_perfil":"https://raw.githubusercontent.com/sgarciatz/Locales/main/Locales/DinoBurgerPerfil.jpg",
     "foto_background":"https://raw.githubusercontent.com/sgarciatz/Locales/main/Locales/DinoBurgerBackground.jpg",
     "aforo_total":150,
-    "ocupacion_actual":30,
+    "ocupacion_actual":150,
     "etiquetas":[
         "hamburguesa",
         "bocadillos"
